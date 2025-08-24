@@ -1,0 +1,7 @@
+C:\Users\UQAR\source\repos\SolT1\SolT1\bin\Debug\SolT1.exe.config
+C:\Users\UQAR\source\repos\SolT1\SolT1\bin\Debug\SolT1.exe
+C:\Users\UQAR\source\repos\SolT1\SolT1\bin\Debug\SolT1.pdb
+C:\Users\UQAR\source\repos\SolT1\SolT1\obj\Debug\SolT1.csproj.AssemblyReference.cache
+C:\Users\UQAR\source\repos\SolT1\SolT1\obj\Debug\SolT1.csproj.CoreCompileInputs.cache
+C:\Users\UQAR\source\repos\SolT1\SolT1\obj\Debug\SolT1.exe
+C:\Users\UQAR\source\repos\SolT1\SolT1\obj\Debug\SolT1.pdb
